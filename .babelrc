@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["./plugin.js", {
+      "twoToThree": true,
+      "threeToTwo": false
+    }]
+  ]
+}
